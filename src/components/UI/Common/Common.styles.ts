@@ -5,4 +5,8 @@ export const TitleL = styled.h1`
   font-weight: 300;
 `;
 
-export const Label = styled.label``
+export const LabelTitle = styled.div`
+  font-size: 18px;
+  font-weight: 300;
+  padding: 5px 0;
+`;
